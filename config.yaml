@@ -85,14 +85,14 @@ params:
         subtitle: Growing experiences
         title: Curriculum
         url: blogs/tempus
-      - image: Image1.jpg
-        subtitle: swimming with turtles
-        title: A special story
-        url: blogs/magna
-      - image: azzoni1.jpg
+      - image: azzoni1.jpeg
         subtitle: Retaining memories
         title: Photography
         url: blogs/ipsum
+      - image: Image1.jpg
+        subtitle: Swimming with turtles
+        title: A special story
+        url: blogs/magna
 #      - image: pic05.jpg
  #       subtitle: Ipsum Dolor Sit Amet
   #      title: Consequat
