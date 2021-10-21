@@ -3,12 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: ""
+description: "Inspiring pictures are food for the soul"
 draft: false
-image: pic10.jpg
+image: else-marie-de-leeuw-514943-unsplash.jpg
 keywords: ""
 slug: ipsum
-title: Ipsum
+title: Photography
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+After a heavy snowfall during the night, the weather improved and the environment around us looked stunning.

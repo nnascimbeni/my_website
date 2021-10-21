@@ -3,13 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: "Living in London is a rather multicultural experience"
 draft: false
-image: pic07.jpg
+image: london1.jpeg
 keywords: ""
 slug: aliquam
-title: Aliquam
+title: London 
 ---
+
+Despite Brexit, the city remains highly attractive for international students and early career opportunities.
